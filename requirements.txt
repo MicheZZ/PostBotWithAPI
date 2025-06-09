@@ -1,0 +1,23 @@
+# Основные зависимости для Telegram бота
+aiogram==3.20.0
+
+# Основные зависимости для FastAPI
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+
+# Дополнительные зависимости
+pydantic==2.10.3
+python-multipart==0.0.20
+
+# Для работы с переменными окружения
+python-dotenv==1.0.1
+
+# Стандартная библиотека Python (встроенные модули)
+# sqlite3 - встроенный модуль Python
+# asyncio - встроенный модуль Python
+# threading - встроенный модуль Python
+# multiprocessing - встроенный модуль Python
+# logging - встроенный модуль Python
+# secrets - встроенный модуль Python
+# datetime - встроенный модуль Python
+# typing - встроенный модуль Python
